@@ -1,0 +1,14 @@
+.CenterGreeting {
+    box-sizing: border-box;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    background-color: #f5f5f5;
+    font-size: 20px;
+    width: 400px;
+    height: 80px;
+}
+
+.Greeting {
+    
+}
